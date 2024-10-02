@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="e9d9e86d-d84b-43ab-a939-c7cb8c7577dd" name="@jobtify-jobs-applicationtracking.cykgcoc9frss.us-east-1.rds.amazonaws.com (DDL) Mapping">
+      <data-sources db="baf69287-87f7-4268-a353-4fc314377b7f" ddl="2f07f827-84a0-492a-9b6e-6453b0eef77d" />
+      <scope>
+        <node kind="schema" qname="Jobtify_database1" />
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="2f07f827-84a0-492a-9b6e-6453b0eef77d" />
+          <option name="name" value="@jobtify-jobs-applicationtracking.cykgcoc9frss.us-east-1.rds.amazonaws.com (DDL)" />
+          <option name="dbmsName" value="MYSQL" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/Jobtify_database1_DDL_Datasource" />
+            </array>
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
