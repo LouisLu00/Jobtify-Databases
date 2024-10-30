@@ -7,6 +7,9 @@
         <node kind="schema" qname="Jobtify_database1" />
       </scope>
     </mapping>
+    <mapping uuid="ecbb60fe-2f90-4fc1-95db-6a6c110e63f3" name="Jobtify-userservice (DDL) Mapping">
+      <data-sources ddl="e2271013-081b-4778-8e26-3879630f8aa0" />
+    </mapping>
   </component>
   <component name="SqlDataSourceStorage">
     <option name="dataSources">
@@ -19,6 +22,15 @@
             <array>
               <option value="file://$PROJECT_DIR$/Jobtify_database1_DDL_Datasource" />
             </array>
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+        <State>
+          <option name="id" value="e2271013-081b-4778-8e26-3879630f8aa0" />
+          <option name="name" value="Jobtify-userservice (DDL)" />
+          <option name="dbmsName" value="MYSQL" />
+          <option name="urls">
+            <array />
           </option>
           <option name="outLayout" value="File per object by schema.groovy" />
         </State>
